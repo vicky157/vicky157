@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, DL and astronomy. 
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me email - vickyjohn2505@gmail.com
-- https://vicky157/github.io
+- https://vicky157.github.io
                   
 
 <!---
