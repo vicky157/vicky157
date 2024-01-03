@@ -12,11 +12,11 @@
   </a>
 </p>
 
-<p align="center">👀 I'm interested in Machine Learning, Deep Learning, and Astronomy.</p>
+<p align="center">👀 I'm passionate about Machine Learning, Deep Learning, and Astronomy.</p>
 
-<p align="center">🌱 I am currently pursuing a Master's in Computer Science with a specialization in Machine Learning and Artificial Intelligence.</p>
+<p align="center">🎓 Currently pursuing a Master's in Computer Science with a specialization in Machine Learning and Artificial Intelligence.</p>
 
-<p align="center">📫 You can reach me via email at <a href="mailto:vikashjohn2505@gmail.com">vikashjohn2505@gmail.com</a>.</p>
+<p align="center">📫 Reach me via email at <a href="mailto:vikashjohn2505@gmail.com">vikashjohn2505@gmail.com</a>.</p>
 
 <p align="center">
   <a href="https://vicky157.github.io" target="_blank">
@@ -26,11 +26,33 @@
 
 <div align="center">
   <a href="https://github.com/vicky157/vicky157">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-<COLOR>" alt="View My GitHub Profile" />
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-Explore%20More-brightgreen" alt="View My GitHub Profile" />
   </a>
 </div>
 
-<!---
-vicky157/vicky157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the "Preview" link to take a look at your changes.
---->
+---
+
+### 🚀 My Tech Stack
+
+- **Languages:** Python,C++, Java, JavaScript
+- **Frameworks:** TensorFlow, PyTorch, ScikitLeanr, OpenCV
+- **Database:** MySQL
+- **Tools:** Git, VS Code, OneAPI Devcloud
+
+
+### 📈 GitHub Stats
+
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicky157&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky157&layout=compact&theme=radical)
+
+### 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/vikash-singh-937aa7195/)
+
+---
+
+#### 📢 Fun Fact
+
+I once wrote a program to analyze star patterns using machine learning algorithms. 🌌✨
+
