@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/vicky157" target="_blank">
-
     <img src="https://img.shields.io/github/followers/vicky157?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/vicky157" target="_blank">
@@ -56,4 +55,3 @@
 #### 📢 Fun Fact
 
 I once wrote a program to analyze star patterns using machine learning algorithms. 🌌✨
-
