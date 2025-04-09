@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/vicky157" target="_blank">
-<!--     number:‪+91 93529 19323‬ -->
+
     <img src="https://img.shields.io/github/followers/vicky157?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/vicky157" target="_blank">
