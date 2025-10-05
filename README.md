@@ -14,7 +14,7 @@
 
 <p align="center">👀 I'm passionate about Machine Learning, Deep Learning, and Astronomy.</p>
 
-<p align="center">🎓 Currently pursuing a Master's in Computer Science with a specialization in Machine Learning and Artificial Intelligence.</p>
+<p align="center">🎓 Currently a PhD student at CWRU.</p>
 
 <p align="center">📫 Reach me via email at <a href="mailto:vikashjohn2505@gmail.com">vikashjohn2505@gmail.com</a>.</p>
 
