@@ -1,0 +1,66 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vikash Singh</title>
+  <desc id="desc">PhD student and AI researcher making LLM reasoning formally verifiable</desc>
+
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#1D1D22" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="blueLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4169E1"/>
+      <stop offset="1" stop-color="#7B96FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="298" rx="7" fill="#0D0D0F" stroke="#34343B" stroke-width="2"/>
+  <rect x="2" y="2" width="996" height="296" rx="6" fill="url(#grid)"/>
+
+  <circle cx="28" cy="25" r="5" fill="#4169E1"/>
+  <circle cx="46" cy="25" r="5" fill="#34343B"/>
+  <circle cx="64" cy="25" r="5" fill="#34343B"/>
+  <path d="M1 48H999" stroke="#34343B"/>
+  <text x="82" y="30" fill="#777781" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="2">~/VIKASH/PROFILE</text>
+
+  <text x="62" y="93" fill="#7B96FF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16">~ $ whoami</text>
+  <text x="60" y="159" fill="#FFFFFF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="54" font-weight="700" letter-spacing="3">VIKASH SINGH</text>
+  <text x="62" y="196" fill="#A4A4AE" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16" letter-spacing="1.4">PHD STUDENT  ·  AI RESEARCHER  ·  FORMAL REASONING</text>
+  <rect x="62" y="220" width="670" height="2" fill="url(#blueLine)"/>
+  <text x="62" y="252" fill="#7B96FF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="14" letter-spacing="1.5">MAKING LLM REASONING FORMALLY VERIFIABLE</text>
+  <rect x="535" y="239" width="8" height="18" fill="#7B96FF" opacity="0.9"/>
+
+  <g transform="translate(810 76) scale(1.45)">
+    <g fill="#FFB3C1" stroke="none" opacity="0.65">
+      <ellipse cx="27.5" cy="41.5" rx="6" ry="3.6"/>
+      <ellipse cx="72.5" cy="41.5" rx="6" ry="3.6"/>
+    </g>
+    <g fill="#FFFFFF" stroke="#141414" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M30 48 Q20 70 24 85 Q27 93 38 93 L62 93 Q73 93 76 85 Q80 70 70 48 Q50 56 30 48 Z"/>
+      <path d="M41.5 67 Q50 63 58.5 67 L58.5 85 Q58.5 92 50 92 Q41.5 92 41.5 85 Z"/>
+      <path d="M33 93 Q32 86 38.5 86 Q42 86 41.5 93 Z"/>
+      <path d="M67 93 Q68 86 61.5 86 Q58 86 58.5 93 Z"/>
+      <circle cx="16.5" cy="84" r="12.5"/>
+      <circle cx="83.5" cy="84" r="12.5"/>
+      <ellipse cx="50" cy="33" rx="31" ry="27.5"/>
+      <path d="M36 7.5 Q17 10 9.5 29 Q5.5 42 12 48.5 Q19 54 26.5 45 Q23.5 24 36 7.5 Z"/>
+      <path d="M64 7.5 Q83 10 90.5 29 Q94.5 42 88 48.5 Q81 54 73.5 45 Q76.5 24 64 7.5 Z"/>
+    </g>
+    <g>
+      <circle cx="36" cy="31.5" r="5.4" fill="#141414"/>
+      <circle cx="38.1" cy="29.2" r="1.9" fill="#FFFFFF"/>
+      <circle cx="34.2" cy="33.6" r="0.9" fill="#FFFFFF"/>
+      <circle cx="64" cy="31.5" r="5.4" fill="#141414"/>
+      <circle cx="66.1" cy="29.2" r="1.9" fill="#FFFFFF"/>
+      <circle cx="62.2" cy="33.6" r="0.9" fill="#FFFFFF"/>
+    </g>
+    <path d="M45.3 39.5 Q50 37.8 54.7 39.5 Q55.7 43.7 50 46.4 Q44.3 43.7 45.3 39.5 Z" fill="#141414"/>
+    <path d="M50 46 L50 50.5 M50 50.5 Q43.5 55.5 37.5 50.5 M50 50.5 Q56.5 55.5 62.5 50.5" stroke="#141414" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M45.8 52.5 L45.8 54.5 Q45.8 59 50 59 Q54.2 59 54.2 54.5 L54.2 52.5 Q50 55 45.8 52.5 Z" fill="#FF8FA3" stroke="#141414" stroke-width="2.4"/>
+    <g fill="#141414">
+      <ellipse cx="16.5" cy="87.5" rx="4.4" ry="3.6"/><ellipse cx="9.8" cy="81.5" rx="2" ry="2.4"/><ellipse cx="16.5" cy="78.8" rx="2" ry="2.4"/><ellipse cx="23.2" cy="81.5" rx="2" ry="2.4"/>
+      <ellipse cx="83.5" cy="87.5" rx="4.4" ry="3.6"/><ellipse cx="76.8" cy="81.5" rx="2" ry="2.4"/><ellipse cx="83.5" cy="78.8" rx="2" ry="2.4"/><ellipse cx="90.2" cy="81.5" rx="2" ry="2.4"/>
+    </g>
+  </g>
+
+  <path d="M762 79H782V99" stroke="#4169E1" stroke-width="2"/>
+  <path d="M964 221V241H944" stroke="#4169E1" stroke-width="2"/>
+</svg>
