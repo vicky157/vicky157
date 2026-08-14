@@ -1,0 +1,49 @@
+name: Update profile statistics
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-stats.yml
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate statistics card
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/github-stats.svg
+          custom-title: Vikash's GitHub Activity
+          featured-repository: openleaf
+          max-languages: 8
+          colors: "#0D0D0F #2C2C33 #4169E1 #7B96FF #EDEDED"
+          border-radius: 10
+          image-width: 900
+          hide-keys: joined followers following sponsors sponsoring private
+          category-order: contributions, repositories, languages, general
+          commit-and-push: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit refreshed statistics
+        run: |
+          git add assets/github-stats.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "vicky157"
+          git config user.email "johnvikash2505@gmail.com"
+          git commit -m "Update profile statistics"
+          git push

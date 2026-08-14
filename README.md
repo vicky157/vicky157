@@ -52,16 +52,9 @@ research/
 ## `> github --stats`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vicky157&show_icons=true&hide_border=true&bg_color=00000000&title_color=7B96FF&text_color=EDEDED&icon_color=7B96FF&hide=issues" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vicky157&show_icons=true&hide_border=true&bg_color=00000000&title_color=4169E1&text_color=000000&icon_color=4169E1&hide=issues" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vicky157&show_icons=true&hide_border=true&bg_color=00000000&title_color=4169E1&text_color=000000&icon_color=4169E1&hide=issues" alt="Vikash's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky157&layout=compact&hide_border=true&bg_color=00000000&title_color=7B96FF&text_color=EDEDED" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky157&layout=compact&hide_border=true&bg_color=00000000&title_color=4169E1&text_color=000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky157&layout=compact&hide_border=true&bg_color=00000000&title_color=4169E1&text_color=000000" alt="Vikash's most-used languages" />
-  </picture>
+  <a href="https://github.com/cicirello/user-statistician">
+    <img src="./assets/github-stats.svg" width="100%" alt="Vikash's GitHub activity, repositories, contributions, and language statistics" />
+  </a>
 </p>
 
 ---
