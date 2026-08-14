@@ -10,32 +10,42 @@
   <a href="mailto:vikashjohn2505@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4169E1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## `> whoami`
+## `> ./vikash --hello`
 
 I'm a Computer Science PhD student at **Case Western Reserve University**. I
 make LLM reasoning **formally verifiable** by pairing language models with SMT
 solvers and theorem provers, so their outputs can be mathematically checked
 before anyone has to trust them.
 
+> **Short version:** I teach language models to show their work—then ask a
+> solver to check it.
+
+| | Inside the research lab |
+| :--- | :--- |
+| `MAIN QUEST` | Turn plausible LLM reasoning into machine-checkable proof |
+| `CO-PILOTS` | SMT solvers, theorem provers, and reliable evaluation |
+| `SIDE QUEST` | Build thoughtful open-source tools like [OpenLeaf](https://github.com/vicky157/openleaf) |
+| `OFFLINE MODE` | Look up at the observable universe and ask smaller questions 🌌 |
+
+## `> run verification-loop`
+
 ```text
-research/
-├── formal-reasoning/       LLMs × SMT solvers × theorem provers
-├── reliable-evaluation/    uncertainty, calibration, and trust
-├── interpretable-ai/       explanations, bias, and model behavior
-└── efficient-models/       pruning, LoRA, and optimization
+prompt ──▶ LLM ──▶ formalize ──▶ solver ──▶ ✓ verified answer
+              ▲                    │
+              └──── repair ◀───────┘  counterexample
 ```
 
-## `> selected-work`
+## `> ls featured/`
 
 | | Project |
 | :--- | :--- |
-| **OPEN SOURCE** | **[OpenLeaf](https://github.com/vicky157/openleaf)** — a private, local-first LaTeX editor with live PDF preview, SyncTeX, document graphs, and offline storage |
-| **NEURIPS 2025** | **[Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)** — when to trust LLMs in automated reasoning tasks |
-| **HIPC 2025** | **[K⁴](https://arxiv.org/abs/2507.20051)** — online log anomaly detection through unsupervised typicality learning |
+| 🌿 **OPEN SOURCE** | **[OpenLeaf](https://github.com/vicky157/openleaf)** — a private, local-first LaTeX editor with live PDF preview, SyncTeX, document graphs, and offline storage |
+| 🧠 **NEURIPS 2025** | **[Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)** — when to trust LLMs in automated reasoning tasks |
+| ⚡ **HIPC 2025** | **[K⁴](https://arxiv.org/abs/2507.20051)** — online log anomaly detection through unsupervised typicality learning |
 
 <p align="right"><a href="https://vikash-singh.me/publications">view all publications →</a></p>
 
-## `> stack --list`
+## `> load toolkit`
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-4169E1?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -49,7 +59,9 @@ research/
   <img src="https://img.shields.io/badge/LATEX-4169E1?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-## `> github --stats`
+## `> telemetry --refresh=daily`
+
+<p align="center"><sub>Generated inside this repository—no sleeping stats server.</sub></p>
 
 <p align="center">
   <a href="https://github.com/cicirello/user-statistician">
@@ -60,8 +72,7 @@ research/
 ---
 
 <p align="center">
-  <code>formal reasoning</code> · <code>reliable AI</code> · <code>open source</code>
+  <code>while (curious) { question(); formalize(); verify(); share(); }</code>
   <br /><br />
-  When I'm not testing the limits of language models, I'm usually looking up at
-  the limits of the observable universe. 🌌
+  🐶 Supervised by the very serious research assistant above.
 </p>

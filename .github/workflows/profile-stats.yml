@@ -27,14 +27,15 @@ jobs:
         uses: cicirello/user-statistician@v1
         with:
           image-file: assets/github-stats.svg
-          custom-title: Vikash's GitHub Activity
-          featured-repository: openleaf
-          max-languages: 8
+          custom-title: Vikash's Research Lab Telemetry
+          max-languages: 6
+          animated-language-chart: true
+          language-animation-speed: 30
           colors: "#0D0D0F #2C2C33 #4169E1 #7B96FF #EDEDED"
           border-radius: 10
-          image-width: 900
-          hide-keys: joined followers following sponsors sponsoring private
-          category-order: contributions, repositories, languages, general
+          image-width: 760
+          hide-keys: general private
+          category-order: contributions, repositories, languages
           commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
