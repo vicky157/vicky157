@@ -59,20 +59,8 @@ prompt ──▶ LLM ──▶ formalize ──▶ solver ──▶ ✓ verified
   <img src="https://img.shields.io/badge/LATEX-4169E1?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-## `> telemetry --refresh=daily`
-
-<p align="center"><sub>Generated inside this repository—no sleeping stats server.</sub></p>
 
 <p align="center">
-  <a href="https://github.com/cicirello/user-statistician">
-    <img src="./assets/github-stats.svg" width="100%" alt="Vikash's GitHub activity, repositories, contributions, and language statistics" />
-  </a>
-</p>
 
----
-
-<p align="center">
-  <code>while (curious) { question(); formalize(); verify(); share(); }</code>
-  <br /><br />
   🐶 Supervised by the very serious research assistant above.
 </p>
